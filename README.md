@@ -6,3 +6,9 @@ This is the repository of Group #6 for the 3rd Homework of Algorithmic Methods f
 </p>
   
  **Goal of the homework**: *Build a search engine over a list of movies that have a dedicated page on Wikipedia.*
+ 
+ The repository contais:
+ * `collector.py`: a python file that contains the line of code needed to collect your data from the `html` page (from which you get the urls) and Wikipedia.
+* `collector_utils.py`: a python file that stores the function you used in `collector.py`.
+* `collector.py`: a python file that contains the line of code needed to collect your data from the `html` page (from which you get the urls) and Wikipedia.
+* `collector_utils.py`: a python file that stores the function you used in `collector.py`.
