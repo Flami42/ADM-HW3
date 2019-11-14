@@ -14,4 +14,4 @@ Group #6 aka Flaminia Spasiano and Giusy Colarusso
 * `collector.py`: a python file that contains the line of code needed to collect your data from the `html` page (from which you get the urls) and Wikipedia.
 * `collector_utils.py`: a python file that stores the function you used in `collector.py`.
 
-We are very sorry that the rest of the homework is missing. This is because the third element of our group (a computer engeneer) left us with nothing in the middle of the homework and we had few time and not enought pre-knowledge to do what was meant to do. We hope at least our code is as clear and as readble as possible. Thank you
+We are very sorry that the rest of the homework is missing. This is because the third element of our group left us with nothing in the middle of the homework and we had few time and not enought pre-knowledge to do what was meant to do. We hope at least our code is as clear and as readble as possible. Thank you.
