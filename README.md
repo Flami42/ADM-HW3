@@ -18,5 +18,5 @@ Made by Group #6, also known as: *Flaminia Spasiano* & *Giusy Colarusso*
 * `main.py`: a python file that once executed build up the search engine.
 
 
-We are sorry the rest of the homework is missing. This is because the third element of our group left us in the middle of the homework and had not enought time to do what was meant to do according to ouer possibilities. 
-We hope the rest of our code is as clear and as readble as possible. Thank you.
+We are sorry the rest of the homework is missing. This is because the third element of our group left us in the middle of the homework and we had not enought time to do what was meant to do according to our possibilities. 
+We hope the rest of our code is as clear and as readble as we hope. Thank you.
