@@ -51,7 +51,7 @@ def get_linklist():
     return linklist
 
 # This function is the core of the search engine. When called, it ask the user what film he is looking for, parse the query and return the dataframe of the movies in whose informations appear all the words in the query.
-def search(linklist, vocabulary, df_inverted_index):
+def search_engine(parameter,linklist, vocabulary, df_inverted_index):
     query=list((input().split(' ')))
     
     films=[]
